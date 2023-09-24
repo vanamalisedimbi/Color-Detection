@@ -1,6 +1,6 @@
 Color Detection using python.
 
-**THIS IS THE NEW VERSION, WITH BETTER ACCURACY AND USES pygame INSTEAD**
+**THIS IS THE NEW VERSION, WITH BETTER ACCURACY AND USES pygame INSTEAD.**
 
 The python file is a model that will take an image from the user, and can 'pick' the colour that
 the mouse is pointing at.
